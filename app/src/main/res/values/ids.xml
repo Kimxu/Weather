@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="lunch_menu_name" type="id" />
+    <item name="lunch_menu_count" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="icon" type="id" />
+    <item name="date" type="id" />
+    <item name="description" type="id" />
+    <item name="maxTemperature" type="id" />
+    <item name="minTemperature" type="id" />
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="name">name</string>
+    <string name="password">password</string>
+    <string name="settings">Setting</string>
+    <string name="city_zipcode">city code</string>
+</resources>
